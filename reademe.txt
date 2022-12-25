@@ -1,0 +1,4 @@
+1.  Pre-requisites
+    - Following up the requuremnet.txt
+    - install allure: pip install allure-pytest
+2.  Run the testcase:  pytest <test_case> --browser chrome
